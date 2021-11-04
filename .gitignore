@@ -1,0 +1,8 @@
+.vscode/
+
+# Local Compiled files
+bin/
+artifacts/
+wOXY.sol
+ODAOZapIn.sol
+WONEBondDepository.sol
